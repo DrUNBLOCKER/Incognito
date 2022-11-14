@@ -20,7 +20,7 @@
 
 <div align="center">
          <h2>Get Started</h2>
-         <a>To get started, press one of the buttons below to deploy Incognito</a>
+         <a>Make your own proxy click one off the deployment methods to make a proxy</a>
          <br>
          <br>
 <a href="https://app.cyclic.sh/api/app/deploy/amethystnetwork-dev/Incognito"><img height="30px" src="https://img.shields.io/badge/cyclic-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
@@ -34,7 +34,7 @@
 
 Press the join button to join the server:
 
-[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
+[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)(https://discord.gg/hcYjvk5Maf)]
 
 ## Overview
 
