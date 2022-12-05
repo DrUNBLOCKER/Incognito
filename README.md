@@ -33,7 +33,7 @@
 ## Discord Server
 
 Press the join button to join the server:
-(https://discord.gg/hcYjvk5Maf)]
+(https://discord.gg/zqYSYFDJWW)]
 
 ## Overview
 
